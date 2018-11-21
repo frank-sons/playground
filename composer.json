@@ -1,0 +1,9 @@
+{
+    "name": "frank-sons/playground",
+    "type": "project",
+    "require": {
+        "php": "^7.1",
+        "ext-mysqli": "*",
+        "ext-pdo": "*"
+    }
+}
