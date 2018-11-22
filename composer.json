@@ -5,5 +5,10 @@
         "php": "^7.1",
         "ext-mysqli": "*",
         "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Playground\\": "src/"
+        }
     }
 }
