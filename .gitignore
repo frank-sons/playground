@@ -3,5 +3,6 @@
 .project
 .settings
 .idea/
+.phpunit.result.cache
 tmp
 vendor/
